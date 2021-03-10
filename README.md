@@ -1,6 +1,6 @@
 # Summarize News Articles - README ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-- Paste the news link and enjoy the summary and emotionality parameters prepared by AI for you.
+- Paste the news link and enjoy the summary and sentiment parameters prepared by AI for you.
 
 ## Examples
 
