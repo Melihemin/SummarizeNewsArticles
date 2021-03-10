@@ -6,7 +6,7 @@
 
 ## Authors
 
-- https://github.com/Melihemin
+- [Melih Emin Kılıçoğlu](https://github.com/Melihemin) - Artificial Intelligence Researcher & Developer
 
 ## Package
 
