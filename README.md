@@ -1,7 +1,6 @@
 <img src="icon.png" align="right" />
 
-# SummarizeNewsArticles README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome READMEs
+# Summarize News Articles - README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 ## Examples
 
@@ -17,7 +16,7 @@
 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - Python interface to Tcl/Tk
 
-- [NewsPaper] (https://pypi.org/project/newspaper3k/) - Simplified python article discovery & extraction.
+- [NewsPaper](https://pypi.org/project/newspaper3k/) - Simplified python article discovery & extraction.
 
 ## Get Feedback
 
